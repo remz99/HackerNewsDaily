@@ -1,0 +1,3 @@
+===Hacker News Daily
+ 
+A basic application I wrote a while back to scrap Hacker News(https://news.ycombinator.com) and to notify me daily of new articles by email. Using Mechanize for the scraping and Sidekiq with Sidetiq for the scheduled job.
